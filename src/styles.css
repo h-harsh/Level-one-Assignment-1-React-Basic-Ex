@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.new {
+  border-bottom: 1px solid black;
+  padding: 1rem 0;
+}
+.cartItem {
+  display: inline-block;
+  margin-right: 1rem;
+}
